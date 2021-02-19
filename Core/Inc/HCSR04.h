@@ -1,9 +1,9 @@
 /*
  * ***************************************************************
  *  API name    : HCSR04
- *  API files   : HCSR04.c, HCSR04.c
+ *  API files   : HCSR04.c, HCSR04.h
  *  file		: HCSR04.h
- *  authors		: Italo Dias, Sarah Carine
+ *  authors		: Italo Dias, Sarah Oliveira
  *  university  : Federal University of Minas Gerais
  *  license     : GNU General Public License v3.0
  *  date        : 02/18/21
